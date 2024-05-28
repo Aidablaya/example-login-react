@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/Aidablaya/example-login-react#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.4.0",
     "morgan": "^1.10.0"
   },
